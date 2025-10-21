@@ -1,18 +1,25 @@
-# React + Vite
+🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built using React and Tailwind CSS. It showcases my skills, projects, and experience as a developer.
 
-Currently, two official plugins are available:
+🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js – for building the UI components
+Tailwind CSS – for responsive and modern styling
+Lucide React – for icons and smooth animations
 
-## React Compiler
+💡 Features
+⚡ Fully responsive and modern design
+🎨 Clean, minimal, and professional UI
+🧩 Sections for About, Skills, Projects, and Contact
+🌓 Dark & Light mode support 
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+🧠 Learnings
+Improved my understanding of React component structure
+Gained hands-on experience with Tailwind utility classes
+Practiced deploying and maintaining a frontend project
 
-Note: This will impact Vite dev & build performances.
+🌍 Deployment
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The website is deployed using Vercel.
+👉 [Live Demo](https://portfolio-page-mohammedkaif.vercel.app/)
